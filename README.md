@@ -1,4 +1,4 @@
-# face-recognition-from-webcam
+# face-recognition-attendence-system
 Face Recognition from WebCam using Javascript, NodeJS and face-api.js which is a wrapper around TensorFlowJS.
 
 <b>Some of the Major technologies used:</b>
@@ -120,10 +120,6 @@ Deployment :
 - **Deployment Architecture:** Separate deployments for frontend and backend.
 - **Additional Services:** Netlify for hosting frontend assets.
 
- Result :
- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ![Screenshot (52)](https://github.com/Vanshika2302/Face-recognition-Project/assets/104651157/1c99ff7c-5d2f-4546-a519-71c5870f70dd)
- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Credits : 
 --------
